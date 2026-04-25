@@ -6,7 +6,7 @@
 
 Welcome to **OptiGrain SaaS**. This repository houses the complete source code for the OptiGrain platform, featuring a robust Python-based backend and a modern TypeScript frontend.
 
-*(Briefly describe your platform here. For example: "OptiGrain is an AI-powered SaaS platform designed to optimize grain yield analytics for modern agriculture," or "OptiGrain is a data-optimization tool managing fine-grained data infrastructure.")*
+*OptiGrain is an AI-powered SaaS platform designed to optimize grain yield analytics for modern agriculture. OptiGrain is a data-optimization tool managing fine-grained data infrastructure.*
 
 ---
 
