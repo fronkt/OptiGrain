@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "materials-project": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "mp_api.mcp_server"],
+      "env": {
+        "MP_API_KEY": "C1afUBin6ja3GLJfMQ7oosdzd3fR3eHS"
+      }
+    }
+  }
+}
