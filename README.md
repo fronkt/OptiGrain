@@ -9,7 +9,7 @@ Welcome to **OptiGrain**. This repository houses the complete source code for th
 *OptiGrain is an AI-powered SaaS platform designed to optimize grain yield analytics for modern agriculture. OptiGrain is a data-optimization tool managing fine-grained data infrastructure.*
 
 ## What
-Materials informatics SaaS for electron micrograph analysis. Analyzes SEM/optical
+Materials informatics software (saas once built?) for electron micrograph analysis. Analyzes SEM/optical
 metallographs: segments grain boundaries, computes ASTM E112 grain size numbers,
 detects defects, and cross-references detected phases with thermodynamic databases.
 
