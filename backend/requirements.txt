@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python
+numpy
+python-multipart
+httpx
+python-dotenv
+mp-api
+scikit-learn
+scikit-image
+joblib
